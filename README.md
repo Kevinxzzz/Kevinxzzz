@@ -96,4 +96,4 @@ My name is Kevin Maravilha, I’m 19 years old, and I’m from Paraíba, Brazil.
 
 ### 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinxzzz_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinxzzz&show_icons=true)
