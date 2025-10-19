@@ -99,10 +99,10 @@ My name is Kevin Maravilha, I’m 19 years old, and I’m from Paraíba, Brazil.
 <div max-height="200">
 <img 
     align="left" 
-    alt="stats"
+    alt="status"
     height="100%" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Kevinxzzz&show_icons=true&theme=tokyonight&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=Kevinxzzz&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=Status" 
     />
 
 <img 
@@ -110,6 +110,6 @@ My name is Kevin Maravilha, I’m 19 years old, and I’m from Paraíba, Brazil.
     alt="stats"
     height="100%" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinxzzz&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinxzzz&theme=tokyonight&custom_title=Tecnologies" 
     />
 </div>
