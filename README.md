@@ -9,7 +9,8 @@ My name is Kevin Maravilha, I’m 19 years old, and I’m from Paraíba, Brazil.
         <img 
             alt="Instagram" 
             title="meu Instagram" 
-            src="[https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas](https://www.instagram.com/9kevinxd)"
+            src="[[https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas](https://www.instagram.com/9kevinxd)](https://custom-icon-badges.demolab.com/instagram/followers/kevinmaravilha?color=E4405F&labelColor=833AB4&style=for-the-badge&logo=instagram&label=Seguidores&logoColor=white
+)"
         />
     </a>
     <a href="https://github.com/Larissakich?tab=followers">
