@@ -53,7 +53,7 @@ My name is Kevin Maravilha, I’m 19 years old, and I’m from Paraíba, Brazil.
     align="left" 
     alt="Next.js" 
     title="Next.js"
-    width="20px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
@@ -61,7 +61,7 @@ My name is Kevin Maravilha, I’m 19 years old, and I’m from Paraíba, Brazil.
     align="left" 
     alt="Express.js" 
     title="Express.js"
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
     />      
