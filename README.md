@@ -5,20 +5,18 @@
 My name is Kevin Maravilha, I’m 19 years old, and I’m from Paraíba, Brazil. I’m currently studying Systems Analysis and Development at Unipê. I’ve liked technology since my childhood, and having always been in contact with it, I now love working in this field.
 
 <p align="left">
-    <a href="https://www.instagram.com/9kevinxd">
+    <a href="https://www.instagram.com/9kevinxd" target="_blank">
         <img 
             alt="Instagram" 
-            title="meu Instagram" 
-            src="https://custom-icon-badges.demolab.com/instagram/followers/kevinmaravilha?color=E4405F&labelColor=833AB4&style=for-the-badge&logo=instagram&label=Seguidores&logoColor=white
-"
+            title="My Instagram" 
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://www.linkedin.com/in/kevinmaravilha" target="_blank">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="![Seguidores no Instagram](https://custom-icon-badges.demolab.com/instagram/followers/kevinmaravilha?color=E4405F&labelColor=833AB4&style=for-the-badge&logo=instagram&label=Seguidores&logoColor=white)
-"
+            alt="LinkedIn" 
+            title="My LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
 </p>
@@ -98,11 +96,10 @@ My name is Kevin Maravilha, I’m 19 years old, and I’m from Paraíba, Brazil.
     src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
+  <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
