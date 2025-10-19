@@ -1,6 +1,6 @@
 # 🧑‍💻 Kevin
 
-**`Desenvolvedor FullStack`**
+**`Developer FullStack`**
 
 My name is Kevin Maravilha, I’m 19 years old, and I’m from Paraíba, Brazil. I’m currently studying Systems Analysis and Development at Unipê. I’ve liked technology since my childhood, and having always been in contact with it, I now love working in this field.
 
@@ -23,7 +23,7 @@ My name is Kevin Maravilha, I’m 19 years old, and I’m from Paraíba, Brazil.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages & Tecnologies
 
 <img 
     align="left" 
