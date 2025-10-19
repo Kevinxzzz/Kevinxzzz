@@ -7,9 +7,9 @@ My name is Kevin Maravilha, I’m 19 years old, and I’m from Paraíba, Brazil.
 <p align="left">
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="Instagram" 
+            title="meu Instagram" 
+            src="[https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas](https://www.instagram.com/9kevinxd)"
         />
     </a>
     <a href="https://github.com/Larissakich?tab=followers">
