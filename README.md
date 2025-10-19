@@ -110,6 +110,6 @@ My name is Kevin Maravilha, I’m 19 years old, and I’m from Paraíba, Brazil.
     alt="stats"
     height="100%" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinxzzz&theme=tokyonight&layout=compact&custom_title=Tecnologies&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinxzzz&theme=tokyonight&layout=compact&custom_title=Tecnologies" 
     />
 </div>
