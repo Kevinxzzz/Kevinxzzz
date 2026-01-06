@@ -23,7 +23,7 @@ My name is Kevin Maravilha, I’m 19 years old, and I’m from Paraíba, Brazil.
 
 ---
 
-### 🤖 Languages & Tecnologies
+### 🤖 Languages & Technologies
 
 <img 
     align="left" 
