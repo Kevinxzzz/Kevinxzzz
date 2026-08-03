@@ -12,7 +12,7 @@ My name is Kevin Maravilha, I’m 19 years old, and I’m from Paraíba, Brazil.
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/kevinmaravilha" target="_blank">
+    <a href="www.linkedin.com/in/kevin-henrique-923bb7384" target="_blank">
         <img 
             alt="LinkedIn" 
             title="My LinkedIn" 
